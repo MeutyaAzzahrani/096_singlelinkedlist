@@ -159,3 +159,7 @@ int main() {
                     system("cls");
                     break;
                 }
+
+
+                int nim;
+
